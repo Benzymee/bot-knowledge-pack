@@ -1,6 +1,8 @@
 ﻿# Bot Knowledge Pack (benzyme / 2004sp-progressive)
 
-Private share of the AI bot **knowledge** layer from Lost City 254 progressive.
+Share of the AI bot **knowledge** layer from Lost City 254 progressive. 
+<p>
+PROFITING OFF PRIVATE SERVERS IS WRONG. IF YOU TRY TO TURN YOUR SERVER INTO A BUSNIESS AS APOSSED TO A HOBBY YOU ARE A FUCKING DEMON AND A THIEF. Anyway
 
 ## Contents
 
@@ -27,7 +29,3 @@ Bot phrase / chat response JSON used alongside knowledge.
 ## Notes
 - These are TypeScript sources from the live engine; not a runnable bot stack by themselves.
 - Falador Park is the intended buy/sell hub (see `BotMarket.ts`).
-- Shared privately for review — do not redistribute.
-
-## Access
-Private repo. Collaborator: [@lulwut](https://github.com/lulwut)
